@@ -80,6 +80,7 @@
 - [`decltype` 那些事](./basic_content/decltype)
 - [引用与指针那些事](./basic_content/pointer_refer)
 - [宏那些事](./basic_content/macro)
+- [对齐那些事](./basic_content/align)
 
 ### 2.实战系列
 
